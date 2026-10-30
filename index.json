@@ -1,0 +1,53 @@
+{
+  "indexVersion": 1,
+  "title": "iWalpapper Examples",
+  "description": "Our code wallpapers and credited CC0 photos and videos.",
+  "author": {
+    "name": "PerpetuumArt"
+  },
+  "homepage": "https://github.com/PerpetuumArt/iwalpapper-library",
+  "hosts": [
+    "perpetuumart.github.io"
+  ],
+  "categories": [
+    {
+      "id": "code",
+      "title": "Code"
+    },
+    {
+      "id": "videos",
+      "title": "Videos"
+    }
+  ],
+  "items": [
+    {
+      "id": "web-clock",
+      "kind": "web",
+      "title": "Web Clock",
+      "summary": "A clock drawn as a web page.",
+      "category": "code",
+      "preview": "previews/web-clock.png",
+      "file": {
+        "url": "files/web-clock.zip",
+        "bytes": 16848,
+        "sha256": "9cf9e9b7c0d690d893a3b4ea392771f2e2d7bf3b36cd9d54197aa35d649003bd"
+      },
+      "creator": "iWalpapper"
+    },
+    {
+      "id": "sunset-grid",
+      "kind": "video",
+      "title": "Sunset Grid",
+      "summary": "A short looping test video.",
+      "category": "videos",
+      "preview": "previews/sunset-grid.png",
+      "file": {
+        "url": "files/sunset-grid.mp4",
+        "bytes": 9051,
+        "sha256": "1858f6ea2fb1e79957f1de65cb70c0e2b68536afbd21e8beb1ecd2a71936129c"
+      },
+      "creator": "iWalpapper",
+      "license": "CC0-1.0"
+    }
+  ]
+}
