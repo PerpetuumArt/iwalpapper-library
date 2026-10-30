@@ -15,6 +15,22 @@
       "title": "Code"
     },
     {
+      "id": "gradients",
+      "title": "Gradients"
+    },
+    {
+      "id": "widgets",
+      "title": "Widgets"
+    },
+    {
+      "id": "photos",
+      "title": "Photos"
+    },
+    {
+      "id": "nature-videos",
+      "title": "Nature Videos"
+    },
+    {
       "id": "videos",
       "title": "Videos"
     }
@@ -48,6 +64,303 @@
       },
       "creator": "iWalpapper",
       "license": "CC0-1.0"
+    },
+    {
+      "id": "drifting-gradient",
+      "kind": "extension",
+      "title": "Drifting Gradient",
+      "summary": "Two colours drifting slowly across the screen.",
+      "category": "code",
+      "preview": "previews/GradientWallpaper.jpg",
+      "file": {
+        "url": "files/GradientWallpaper.zip",
+        "bytes": 1754,
+        "sha256": "ae58fb19353d4c541835a14960a08a374d3208958112598c5aa02befe0c7b699"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "silk-waves",
+      "kind": "extension",
+      "title": "Silk Waves",
+      "summary": "Soft folds of colour, drawn by a GLSL shader.",
+      "category": "code",
+      "preview": "previews/ShaderWallpaper.jpg",
+      "file": {
+        "url": "files/ShaderWallpaper.zip",
+        "bytes": 1070,
+        "sha256": "b3869899d50b701c28af3f52b5aea54ce120c3e001cdcc2bdbbfd8bed297383f"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "daylight-sky",
+      "kind": "extension",
+      "title": "Daylight Sky",
+      "summary": "A sky through the day and night: the sun rises, crosses and sets, and the stars come out.",
+      "category": "code",
+      "preview": "previews/TimeWallpaper.jpg",
+      "file": {
+        "url": "files/TimeWallpaper.zip",
+        "bytes": 3075,
+        "sha256": "92b7630d12690b156c24107dc86c55ce315d8e29a46ef87cbaa40d7ad4666b3d"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "music",
+      "kind": "extension",
+      "title": "Music",
+      "summary": "The song that's playing, over a gradient made from its artwork.",
+      "category": "code",
+      "preview": "previews/MusicWallpaper.jpg",
+      "file": {
+        "url": "files/MusicWallpaper.zip",
+        "bytes": 10611,
+        "sha256": "ba5b1d44a6b5276343112b2873972902f38477e1d96f32df50280b8dd219d9ba"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "clock-widget",
+      "kind": "extension",
+      "title": "Clock",
+      "summary": "The time and date as the lock screen draws them, on the wallpaper itself.",
+      "category": "widgets",
+      "preview": "previews/ClockWidget.jpg",
+      "file": {
+        "url": "files/ClockWidget.zip",
+        "bytes": 4621,
+        "sha256": "f376e2dd3665a35e795edb14d959eb20cccb286b746107b544850e98ffcd89a4"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "date-widget",
+      "kind": "extension",
+      "title": "Date",
+      "summary": "Today's date and time on a glass card.",
+      "category": "widgets",
+      "preview": "previews/DateWidget.jpg",
+      "file": {
+        "url": "files/DateWidget.zip",
+        "bytes": 1590,
+        "sha256": "a65c516d8c29c6fe03497bddb55384de20a4c56dd4324b23bfaea74012f3d2e3"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "seaside-gradients",
+      "kind": "extension",
+      "title": "Seaside Gradients",
+      "summary": "Two gradients in sea colours.",
+      "category": "gradients",
+      "preview": "previews/GradientPack.jpg",
+      "file": {
+        "url": "files/GradientPack.zip",
+        "bytes": 1489,
+        "sha256": "1ca6ac113a413563ec141f17e175abcc2159731f831143d23ab64d00faa4d6ea"
+      },
+      "creator": "iWalpapper",
+      "license": "MIT"
+    },
+    {
+      "id": "trommekilen-sunset",
+      "kind": "still",
+      "title": "Trommekilen Sunset",
+      "summary": "A purple sunset over still water in Sweden.",
+      "category": "photos",
+      "preview": "previews/trommekilen-sunset.jpg",
+      "file": {
+        "url": "files/trommekilen-sunset.jpg",
+        "bytes": 1491340,
+        "sha256": "5e21b28d5c2f4ad48bfe9713e40cf856462960c31fa369511c8b719670715a8c"
+      },
+      "creator": "W.carter",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Sunset_over_Trommekilen_from_Norrkila_6.jpg"
+    },
+    {
+      "id": "lake-and-mountain",
+      "kind": "still",
+      "title": "Lake and Mountain",
+      "summary": "A snowy peak mirrored in a forest lake.",
+      "category": "photos",
+      "preview": "previews/lake-and-mountain.jpg",
+      "file": {
+        "url": "files/lake-and-mountain.jpg",
+        "bytes": 2168847,
+        "sha256": "8832e1664d3b2c4e037aac68f52dd9a8d8def7988fe74be2a5e3f38bb0db33dc"
+      },
+      "creator": "Bonnie Moreland",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Lake_Mountain_Landscape.jpg"
+    },
+    {
+      "id": "milky-way-fjord",
+      "kind": "still",
+      "title": "Milky Way over the Fjord",
+      "summary": "Stars over a dark, still fjord.",
+      "category": "photos",
+      "preview": "previews/milky-way-fjord.jpg",
+      "file": {
+        "url": "files/milky-way-fjord.jpg",
+        "bytes": 3097002,
+        "sha256": "857d5749b26569848e4d30c0ec24c6e2df71824ab53d80af1aa3d813c5daca11"
+      },
+      "creator": "W.carter",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Stars_and_Milky_Way_over_%C3%85byfjorden_8.jpg"
+    },
+    {
+      "id": "forest-under-fog",
+      "kind": "still",
+      "title": "Forest under Fog",
+      "summary": "Green hills breathing fog.",
+      "category": "photos",
+      "preview": "previews/forest-under-fog.jpg",
+      "file": {
+        "url": "files/forest-under-fog.jpg",
+        "bytes": 1554822,
+        "sha256": "a9a00539dbe0e0dbaa1cb9ba3faadf307e49dc2c590786421574130b39522009"
+      },
+      "creator": "Carmine De Fazio",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Forest_under_fog_(Unsplash).jpg"
+    },
+    {
+      "id": "ocean-ripples",
+      "kind": "still",
+      "title": "Ocean Ripples",
+      "summary": "Dark teal water, close up.",
+      "category": "photos",
+      "preview": "previews/ocean-ripples.jpg",
+      "file": {
+        "url": "files/ocean-ripples.jpg",
+        "bytes": 2517868,
+        "sha256": "43924f51f76cd4914ef1afe7f1295e5166edefa11ec592c4ea4fa26f5be07dc3"
+      },
+      "creator": "Tim Marshall",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Ocean_waves_rippling_(Unsplash).jpg"
+    },
+    {
+      "id": "fog-in-the-valley",
+      "kind": "still",
+      "title": "Fog in the Valley",
+      "summary": "Mist settling between autumn hills.",
+      "category": "photos",
+      "preview": "previews/fog-in-the-valley.jpg",
+      "file": {
+        "url": "files/fog-in-the-valley.jpg",
+        "bytes": 1830381,
+        "sha256": "ec15c9553f08b2fbb521c0e92e92c126725fddf447da568e6eb89be7966936ba"
+      },
+      "creator": "Ted Moravec",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Fog_in_the_valley_(51740597094).jpg"
+    },
+    {
+      "id": "winter-watercolour",
+      "kind": "still",
+      "title": "Winter Watercolour",
+      "summary": "A watercolour of a winter sunset through trees.",
+      "category": "photos",
+      "preview": "previews/winter-watercolour.jpg",
+      "file": {
+        "url": "files/winter-watercolour.jpg",
+        "bytes": 2517288,
+        "sha256": "961c84fbb6c20d1f7d71d8f90e1175761de1f00796a1461dcbcb6a194ed3cf73"
+      },
+      "creator": "Maritess Sulcer",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Winter_sunset_with_trees_and_snow_--_24_of_33.jpg"
+    },
+    {
+      "id": "margarita-sunset",
+      "kind": "still",
+      "title": "Margarita Sunset",
+      "summary": "A lone tree against the sunset on Margarita Island.",
+      "category": "photos",
+      "preview": "previews/margarita-sunset.jpg",
+      "file": {
+        "url": "files/margarita-sunset.jpg",
+        "bytes": 3117896,
+        "sha256": "7caa07d004c9b6edf8827e48b1267606f7bf4b18a672a4e89a3856a5c4cdff30"
+      },
+      "creator": "Wilfredor",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Backlit_Margarita_Island_Sunset_in_Las_Guevaras,_Venezuela_CaptureNX2.jpg"
+    },
+    {
+      "id": "ocean-sunset",
+      "kind": "video",
+      "title": "Ocean Sunset",
+      "summary": "The sun low over gently moving sea.",
+      "category": "nature-videos",
+      "preview": "previews/ocean-sunset.jpg",
+      "file": {
+        "url": "files/ocean-sunset.mp4",
+        "bytes": 4750411,
+        "sha256": "0a3eb4333388a6037b52ba5b12dfb4625d6d006b0a3374344f172286b83bf4db"
+      },
+      "creator": "Mostafameraji",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_06.ogv"
+    },
+    {
+      "id": "lenticular-cloud",
+      "kind": "video",
+      "title": "Lenticular Cloud",
+      "summary": "A lens-shaped cloud over Longs Peak, in time-lapse.",
+      "category": "nature-videos",
+      "preview": "previews/lenticular-cloud.jpg",
+      "file": {
+        "url": "files/lenticular-cloud.mp4",
+        "bytes": 10654843,
+        "sha256": "3bbd370b94298e78c53ded243da34ac543cf58839ca972bfb6125166a635c3b3"
+      },
+      "creator": "Stepleton",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Lenticular_cloud_over_Longs_Peak,_Colorado_(time_lapse).ogv"
+    },
+    {
+      "id": "canyon-clouds",
+      "kind": "video",
+      "title": "Canyon Clouds",
+      "summary": "Clouds racing over Bellevue Canyon, in time-lapse.",
+      "category": "nature-videos",
+      "preview": "previews/canyon-clouds.jpg",
+      "file": {
+        "url": "files/canyon-clouds.mp4",
+        "bytes": 20359579,
+        "sha256": "14f75badd9ed5bc652eb9361a83421c90222c5847c1b553e0bf5f8a04b06a77c"
+      },
+      "creator": "Extemporalist",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Timelapse_of_Clouds_over_Bellevue_Canyon.webm"
+    },
+    {
+      "id": "delaneys-falls",
+      "kind": "video",
+      "title": "Delaneys Falls",
+      "summary": "A small waterfall over rock, in 4K.",
+      "category": "nature-videos",
+      "preview": "previews/delaneys-falls.jpg",
+      "file": {
+        "url": "files/delaneys-falls.mp4",
+        "bytes": 30626920,
+        "sha256": "b6a1b2120c1c32d37577a92d4e86d4986e6cb5f5ff63521bf6297e7cf1a36ce9"
+      },
+      "creator": "Psypherium",
+      "license": "CC0-1.0",
+      "sourcePageURL": "https://commons.wikimedia.org/wiki/File:Delaneys_Falls.webm"
     }
   ]
 }
